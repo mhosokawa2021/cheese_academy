@@ -1,4 +1,4 @@
 # cheese_academy
-チーズアカデミー課題
+LP
 
-https://plumfrog79.sakura.ne.jp/js03new/simple.html
+https://plumfrog79.sakura.ne.jp/lp/index.html
